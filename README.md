@@ -18,7 +18,7 @@ Pandas, SQL ve Matplotlib kullanılarak analiz edilmiştir.
 
 ## 👤 Yazar
 **Yiğit Yelvar**  
-[LinkedIn Profilim](https://www.linkedin.com/in/yi%C4%9Fit-yelvar) ← (linki düzenle)
+[LinkedIn Profilim](https://www.linkedin.com/in/yi%C4%9Fit-yelvar-363554306/) ← (linki düzenle)
 
 
 
